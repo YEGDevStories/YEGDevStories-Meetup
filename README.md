@@ -9,5 +9,6 @@ Investopedia
 
 
 # Points of Contact
-Devin Hanchar - Investopedia - Primary Contact for Investopedia  
-[Daniel Phan](https://github.com/djphan) - Investopedia - Owner of the Github Repo for the Meetup
+### Investopedia
+Devin Hanchar - Primary Contact for Investopedia  
+[Daniel Phan](https://github.com/djphan) - Owner of the Github Repo for the Meetup
