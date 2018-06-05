@@ -11,6 +11,9 @@ For information on the next meetup, check us out on [Meetup.com](https://www.mee
 # When?
 Our next meetup is September 13th. After that we plan to have a meetup on the second Thursday of every second month. (November 8th, January 10th, March 14th, etc.)
 
+# Slack?
+Yes we setup a Slack group for anyone to join and just hang out at yegdevstories.slack.com!
+
 # Current Organizers 
 ### Investopedia
 Steve Reiter ([Slack](https://join.slack.com/t/yegdevstories/shared_invite/enQtMzc1NzI5MjExNTY5LTU2MGNhNjMwMWY4MDAwYWIyMmY0YjRhYmZmMjljZjk2Zjc4MWQ0YmM2NDM0OWQ0MTAyNTY0ZGY3Y2NiODE4NTU))  
@@ -28,7 +31,8 @@ Adam Wolfe Gordon
 Q: What are some ways to contact you guys?  
 A: We have a variety of ways to contact us:  
 * E-Mail us at yegdevstories [at] gmail [dot] com
-* Twitter: [@yegdevstories](https://twitter.com/YegDevStories)
+* Twitter: [@yegdevstories](https://twitter.com/YegDevStories
+* Slack: at [YEGDevStories Workspace](https://yegdevstories.slack.com)
 * Create an issue and message us here on this repo. Feel free to use the `question` tag when marking your issues.
 * If you want to reach out to someone above please see if they have their contact information in their Github profiles.
 
