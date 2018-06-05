@@ -17,10 +17,17 @@ Kevin Charter
 # Points of Contact
 ### Investopedia
 Steve Reiter ([Slack](https://join.slack.com/t/yegdevstories/shared_invite/enQtMzc1NzI5MjExNTY5LTU2MGNhNjMwMWY4MDAwYWIyMmY0YjRhYmZmMjljZjk2Zjc4MWQ0YmM2NDM0OWQ0MTAyNTY0ZGY3Y2NiODE4NTU))
+
 Dan Phan
+
 Heather Tjeedsma ([Slack](https://join.slack.com/t/yegdevstories/shared_invite/enQtMzc1NzI5MjExNTY5LTU2MGNhNjMwMWY4MDAwYWIyMmY0YjRhYmZmMjljZjk2Zjc4MWQ0YmM2NDM0OWQ0MTAyNTY0ZGY3Y2NiODE4NTU))
+
 Dan Lishingman
+
 Al Berjanskii
+
 Kevin Charter
+
 Kris Isfeld
+
 Adam Wolfe Gordon
