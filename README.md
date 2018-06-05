@@ -1,14 +1,26 @@
-# Large Scale Web Development Meetup
-This repo will track the issues and tasks for the Large Scale Web Development Meetups.
+# YEGDevStories Meetup
+This repo will track the issues and tasks for the YEGDevStories Meetups.
 
 The [Meetup URL can be found here](https://www.meetup.com/en-AU/Large-Scale-Web-Development-in-Edmonton/?_cookie-check=eiBU-klbvPkmgLb9).
 
 
 # Current Organizers 
-Investopedia  
+Steve Reiter
+Dan Lishingman
+Heather Tj
+Adam Wolf Gordon
+Dan Phan
+Kris Isfeld
+Kevin Charter
 
 
 # Points of Contact
 ### Investopedia
-Devin Hanchar - Primary Contact for Investopedia  
-[Daniel Phan](https://github.com/djphan) - Owner of the Github Repo for the Meetup
+Steve Reiter ([Slack](https://join.slack.com/t/yegdevstories/shared_invite/enQtMzc1NzI5MjExNTY5LTU2MGNhNjMwMWY4MDAwYWIyMmY0YjRhYmZmMjljZjk2Zjc4MWQ0YmM2NDM0OWQ0MTAyNTY0ZGY3Y2NiODE4NTU))
+Dan Phan
+Heather Tjeedsma ([Slack](https://join.slack.com/t/yegdevstories/shared_invite/enQtMzc1NzI5MjExNTY5LTU2MGNhNjMwMWY4MDAwYWIyMmY0YjRhYmZmMjljZjk2Zjc4MWQ0YmM2NDM0OWQ0MTAyNTY0ZGY3Y2NiODE4NTU))
+Dan Lishingman
+Al Berjanskii
+Kevin Charter
+Kris Isfeld
+Adam Wolfe Gordon
