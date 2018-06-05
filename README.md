@@ -1,7 +1,15 @@
 # YEGDevStories Meetup
 This repo will track the issues and tasks for the YEGDevStories Meetups.
 
+The meetups focus on sharing real world stories and experiences in software development. Hopefully we can all learn from each others mistakes instead of making our own!
+
+Each event consists of a few presentations with a focused theme. Past themes include Large Scale Web Development, Big Data... now what?, Cloud Migrations and Synthetic Environments.
+
 For information on the next meetup, check us out on [Meetup.com](https://www.meetup.com/en-AU/Large-Scale-Web-Development-in-Edmonton/?_cookie-check=eiBU-klbvPkmgLb9).
+
+
+# When?
+Our next meetup is September 13th. After that we plan to have a meetup on the second Thursday of every second month. (November 8th, January 10th, March 14th, etc.)
 
 
 # Current Organizers 
