@@ -31,7 +31,7 @@ Adam Wolfe Gordon
 Q: What are some ways to contact you guys?  
 A: We have a variety of ways to contact us:  
 * E-Mail us at yegdevstories [at] gmail [dot] com
-* Twitter: [@yegdevstories](https://twitter.com/YegDevStories
+* Twitter: [@yegdevstories](https://twitter.com/YegDevStories)
 * Slack: at [YEGDevStories Workspace](https://yegdevstories.slack.com)
 * Create an issue and message us here on this repo. Feel free to use the `question` tag when marking your issues.
 * If you want to reach out to someone above please see if they have their contact information in their Github profiles.
