@@ -1,7 +1,7 @@
 # YEGDevStories Meetup
 This repo will track the issues and tasks for the YEGDevStories Meetups.
 
-The [Meetup URL can be found here](https://www.meetup.com/en-AU/Large-Scale-Web-Development-in-Edmonton/?_cookie-check=eiBU-klbvPkmgLb9).
+For information on the next meetup, check us out on [Meetup.com](https://www.meetup.com/en-AU/Large-Scale-Web-Development-in-Edmonton/?_cookie-check=eiBU-klbvPkmgLb9).
 
 
 # Current Organizers 
